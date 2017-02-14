@@ -15,7 +15,7 @@ date: 2017-01-19 22:40:35
 
 **邮箱**：nevermakeyoucrytoli@gmail.com
 
-**博客**：[blog](//blog.0x8c.com)[ciblog](//blog.0x8c.com/citest)
+**博客**：[blog1](//blog.0x8c.com)  [blog2](//blog.0x8c.com/citest)
 
 ## 个人简介
 
