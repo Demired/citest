@@ -1,7 +1,7 @@
 ---
 title: php判断是否ajax请求
-date: 2017-01-25 11:47
-tags: mysql
+date: 2017-02-23 11:47
+tags: ajax
 ---
 
 有时我们需要判断是不是ajax请求来决定模块输出还是json格式输出.
