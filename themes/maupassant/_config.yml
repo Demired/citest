@@ -36,8 +36,6 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 主站
-    url: http://www.0x8c.com/
   - title: 微博
     url: http://weibo.com/CitruswilsoniiTanaka
 
