@@ -4,8 +4,8 @@
 
 # Site
 title: 0x8c's blog
-subtitle:
-description:
+subtitle: 对于凌驾命运之上的人来说，信心就是生命的主宰。
+description: 穷则独善其身 达则兼济天下
 author: '0x8c'
 language: zh-CN
 timezone: prc
@@ -72,7 +72,7 @@ limit: 20
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: maupassant-hexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
