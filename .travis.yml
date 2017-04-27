@@ -27,4 +27,4 @@ branches:
     - source
 env:
  global:
-   - GH_REF: github.com/Demired/citest.git
+   - GH_REF: github.com/Demired/Demired.github.io.git
