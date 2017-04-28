@@ -13,9 +13,9 @@ date: 2017-01-19 22:40:35
 
 **学校专业**：北京邮电大学 计算机网络
 
-**邮箱**：nevermakeyoucrytoli@gmail.com
+**邮箱**：zhangyuan8087@gmail.com
 
-**博客**：[blog1](//blog.0x8c.com)  [blog2](//blog.0x8c.com/citest)
+**微博**：[0x8C6F66DCFC8A3282](http://weibo.com/2866406340)
 
 ## 履历
 
@@ -35,9 +35,9 @@ date: 2017-01-19 22:40:35
 
 ### 语言
 
-php，python（熟练应用）
+php，python
 
-java，shell，yaml，node.js，lisp（能写脚本）
+java，shell，yaml，node.js，lisp
 
 ### 操作系统
 
