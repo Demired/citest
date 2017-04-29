@@ -5,14 +5,14 @@
 # Site
 title: 0x8c's blog
 subtitle: 千里之行，始于足下
-description: 
+description:
 author: '0x8c'
 language: zh-CN
 timezone: prc
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.0x8c.com
+url: https://www.0x8c.com
 root: /
 permalink: :title.html
 permalink_defaults:
