@@ -2,6 +2,8 @@
 title: vim安装中文help
 date: 2017-02-17 14:15:00
 tags: vim
+categories: 技术
+description: vim自带的帮助手册是英文的，对平时敲代码的同学来说使用起来难度不大，即使遇到不会的单词，也可以借助翻译软件来理解，不失为一个学习英文的好机会
 ---
 
 vim自带的帮助手册是英文的，对平时敲代码的同学来说使用起来难度不大，即使遇到不会的单词，也可以借助翻译软件来理解，不失为一个学习英文的好机会
@@ -10,7 +12,7 @@ vim自带的帮助手册是英文的，对平时敲代码的同学来说使用�
 
 ### 简介
 
-Vimcdoc is an attempt to translate the wonderful Vim online documentation into Chinese, allowing more people to get to know and make use of this great tool. After installing vimcdoc, You will be able to do :help and read documentation in Chinese. 
+Vimcdoc is an attempt to translate the wonderful Vim online documentation into Chinese, allowing more people to get to know and make use of this great tool. After installing vimcdoc, You will be able to do :help and read documentation in Chinese.
 
 ### 下载
 
