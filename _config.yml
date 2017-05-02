@@ -5,7 +5,8 @@
 # Site
 title: 0x8c's blog
 subtitle: 千里之行，始于足下
-description: PHP,Python,Go,Dokcer,PHP拓展,并发,爬虫,Javascript,CSS,LAMP
+description: 0x8c的博客(0x8c's blog). 主要分享关于PHP,Python,Go,Docker,开发,运维的相关技术,新闻和最新动态. 以及记录对互联网行业的思考和分析。
+keywords: PHP,Python,Go,Dokcer,PHP拓展,并发,爬虫,Javascript,CSS,LAMP
 author: '0x8c'
 language: zh-CN
 timezone: prc
