@@ -66,6 +66,8 @@ plugin:
 
 sitemap: 
   path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 
 feed:
 type: atom
