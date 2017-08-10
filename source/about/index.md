@@ -19,26 +19,20 @@ date: 2017-01-19 22:40:35
 
 ## 履历
 
-17年春，加入ipip.net
+17年03月，加入ipip.net
 
-开启新纪元
+15年10月，加入贝格艾迪
 
-15年秋，加入贝格艾迪
-
-担任技术部经理，支撑类项目负责人
-
-14年秋，智恒方略
-
-毕业来京，踌躇满志
+14年10月，智恒方略
 
 ## 技能表
 
 ### 语言
 
-php，python
+php，python，go
 
 java，shell，yaml，node.js，lisp
 
 ### 操作系统
 
-windows，linux，mac
+mac，windows，linux
