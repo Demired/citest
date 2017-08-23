@@ -1,5 +1,5 @@
 ---
-title: 是什么阻挡了IPv6？
+title: 是什么阻挡了IPv6
 date: 2017-08-10 14:54:24
 tags: ip
 categories: 技术
