@@ -36,7 +36,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: X-Ping
+  - title: xping
     url: https://xping.io
   - title: iproxy
     url: https://iproxy.com
