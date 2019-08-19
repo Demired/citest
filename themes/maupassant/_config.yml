@@ -36,8 +36,14 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 微博
-    url: http://weibo.com/CitruswilsoniiTanaka
+  - title: X-Ping
+    url: https://xping.io
+  - title: iproxy
+    url: https://iproxy.com
+  - title: 域名新发地
+    url: https://fuck-domain.com
+  - title: 乐趣博客
+    url: https://www.caijunyi.net
 
 timeline:
   - num: 1
