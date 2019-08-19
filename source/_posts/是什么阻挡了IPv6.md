@@ -6,4 +6,4 @@ categories: 技术
 description: 是钱？是墙？是信仰？
 ---
 
-占坑
+其实是因为IPv6不够优秀
