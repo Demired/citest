@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>0x8c&#39;s blog</title>
+  
+  <subtitle>千里之行，始于足下</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.0x8c.com/"/>
+  <updated>2019-12-19T12:44:15.400Z</updated>
+  <id>https://www.0x8c.com/</id>
+  
+  <author>
+    <name>0x8c</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我为什么要搞一个url监控</title>
+    <link href="https://www.0x8c.com/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%90%9E%E4%B8%80%E4%B8%AAurl%E7%9B%91%E6%8E%A7.html"/>
+    <id>https://www.0x8c.com/我为什么要搞一个url监控.html</id>
+    <published>2019-08-19T08:24:31.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>在美国有不少个人开发者，只用心做一款产品。其中包揽这款产品中的，美工，开发，运维等工作。迭代可能非常慢，但业务做却做的丝毫不差。</p><p>国内却恰恰相反，由于国内互联网市场巨大，各大厂广招人才，冲入利润最高的市场里厮杀。普通的程序员如果能加入一个的团队，很容易就实现了自我价值，并获得丰厚的回报。所以大家心向往之！</p><p>于是在中国互联网圈就出现了一个怪象，越复杂的业务中国的产品越好用，越简单的业务越难用，有的甚至国内就没有这样的服务</p><p>这其实就是我做xping的目的</p><p>xping遵循小而美的设计理念，去除繁杂了注册流程，且不用填填写隐私信息，只需要一个邮箱即可完成注册</p><p>xping使用方法也很简单，添加一个手机号，添加一个url，就可实现url访问失败时，及时短信通知</p><p>更多功能还在持续迭代中，详情可以点击<a href="https://xping.io" target="_blank" rel="noopener">xping</a></p>]]></content>
+    
+    <summary type="html">
+    
+      从事计算机行业这么多年，深知中国近些年取得的进步，也深知中美之间依然存在不小差距，比如一个小小的url监控服务。
+    
+    </summary>
+    
+      <category term="技术，xping" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF%EF%BC%8Cxping/"/>
+    
+    
+      <category term="ip" scheme="https://www.0x8c.com/tags/ip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>物联网能解决什么问题！</title>
+    <link href="https://www.0x8c.com/%E7%89%A9%E8%81%94%E7%BD%91%E8%83%BD%E8%A7%A3%E5%86%B3%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98.html"/>
+    <id>https://www.0x8c.com/物联网能解决什么问题.html</id>
+    <published>2018-09-30T18:36:55.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>从我上小学开始家里一直做的是五金零售的生意，中学之前没有接触过电脑。</p><p>07年股市一片大好，老爸坐不住，想炒股赚钱，想一夜暴富！</p><p>所以在08年我上初一的时候，家里就买了一台电脑。</p><p>买之前，我对电脑的认知非常有限，以为电脑是一个无所不能的东西，上知天文 下知地理，还能穿越时空，爸爸想用电脑来记账，记录进货出货信息！</p><p>只记得电脑买来后令我大失所望，我本以为电脑已经改变了世界，并且会继续改变世界，情绪瞬间跌入谷底！是的这个铁盒子什么也做不了，除了侵占了一些我写作业的空间，它真的毫无用处，我信誓旦旦的和同学描绘着！</p><p>如今已是2018年，我接触电脑已经10年，电脑真的没有改变世界吗？</p><p>而电脑又改变了多少？</p><p>所以你要问我物联网能解决什么问题？</p><p>那我就告诉你，能解决所有问题！</p>]]></content>
+    
+    <summary type="html">
+    
+      物联网能解决什么问题！它能解决一切问题！
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="物联网" scheme="https://www.0x8c.com/tags/%E7%89%A9%E8%81%94%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>狗血的苹果售后</title>
+    <link href="https://www.0x8c.com/%E7%8B%97%E8%A1%80%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%94%AE%E5%90%8E.html"/>
+    <id>https://www.0x8c.com/狗血的苹果售后.html</id>
+    <published>2018-06-08T11:18:55.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>我去年和前年在<a href="http://www.apple.com/cn" target="_blank" rel="noopener">苹果官网</a>分别买了一台15寸顶配macbook pro和13寸顶配macbook pro</p><p>一周前，由于使用不当，造成13寸的疑似进水，产生了一点故障，所以拿去苹果店维修</p><h3 id="信仰"><a href="#信仰" class="headerlink" title="信仰"></a>信仰</h3><p>本着对乔布斯的崇拜与信任，我直接告诉天才吧工作人员，可能进水了</p><p>那时我心想，苹果设备对进没进水的评判应该是客观的，设备内有试水贴纸，变色为进水，不变色为没进水</p><h3 id="等待"><a href="#等待" class="headerlink" title="等待"></a>等待</h3><p>等了3天之后，苹果店来了电话，说我的设备有进水情况，键盘和touch id有严重腐蚀，更换主板，电池，和键盘，一共需要5k+，问我是否同意维修</p><h3 id="怀疑"><a href="#怀疑" class="headerlink" title="怀疑"></a>怀疑</h3><p>虽然进水是在我的意料之中，但是高达5k元的维修费用，使我很意外。特别是，我的电池和键盘好好的，为什么一定要换呢？</p><p>店员又告诉我，只要更换主板，电池就必须得换，键盘可以选择不换</p><h3 id="拒绝"><a href="#拒绝" class="headerlink" title="拒绝"></a>拒绝</h3><p>我考虑了半个小时之后告诉店员，我想回来自己修</p><p>拿回来之后，我自行拆开mac（因为进水就失去保修，没有顾虑）检查了所有试水贴纸，均没有变色，我有点疑虑，难道是想当然了？</p><p>而且腐蚀又是什么情况？肉眼完全看不出来啊！</p><p>我拿着吹风机一通乱吹之后，发现小时候用拍电视的法子，对这个精密的家伙貌似不起任何作用了。于是决定第二天去中关村走一遭。</p><p>睡前我顺便又查了下mac的序列号，AppleCare那项已经是一个黄色的叹号。GG</p><h3 id="中关村"><a href="#中关村" class="headerlink" title="中关村"></a>中关村</h3><p>第二天去了中关村，简直刷新了，我的苹果观</p><p>维修小哥熟练的拆开了mac，使用万能表，3分钟定位了问题所在“touch id短路”，跳过中间给我装系统的几十分钟（我在家手贱把系统给删了）</p><p>又花了5分钟，把我touch id拆下，修复，安装。最后告诉我，touch id已经烧坏了，不能使用指纹，只能当个开机按键</p><p>但是电脑没问题了，touch id没有单卖的</p><p>在与维修小哥聊天中，我了解到。苹果的销售和维修体系中存在许多漏洞，维修渠道，可以将进水的主板充当故障主板返场换新板，这个过程苹果不会收取任何费用，中间的费用都是由渠道收取，但是这个渠道个人很难接触到。而且周期很长</p><p>我又问小哥，苹果店怎么判断进没进水</p><p>小哥说，试水贴纸呗，还能咋判断</p><p>他又说在保的话，可以去苹果店换个新主板，免费</p><p>我说苹果已经给我mac判死刑了。小哥一声狂笑，我也尴尬的点点头</p>]]></content>
+    
+    <summary type="html">
+    
+      分享一个被苹果售后坑的经历
+    
+    </summary>
+    
+      <category term="苹果" scheme="https://www.0x8c.com/categories/%E8%8B%B9%E6%9E%9C/"/>
+    
+    
+      <category term="mac" scheme="https://www.0x8c.com/tags/mac/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装denyhosts</title>
+    <link href="https://www.0x8c.com/%E5%AE%89%E8%A3%85denyhosts.html"/>
+    <id>https://www.0x8c.com/安装denyhosts.html</id>
+    <published>2017-08-23T03:22:55.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>在外网放台机器，开一个ssh服务，如果不改默认端口，使用密码登录，那每天吸引暴力破解数万次是轻轻松松，如果你的机器所处的环境再恶劣些，能收集到的恶意ip量级就非常可观了。恰巧我的全球监测点都符合使用密码登录不改默认端口的特征。</p><p>denyhosts是一款很不错的软件，使用python编写，跨平台，逻辑优雅，代码量小，花半天时间足以看完，</p>]]></content>
+    
+    <summary type="html">
+    
+      阻止暴力破解
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="denyhosts" scheme="https://www.0x8c.com/tags/denyhosts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>路由器的工作原理</title>
+    <link href="https://www.0x8c.com/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.html"/>
+    <id>https://www.0x8c.com/路由器的工作原理.html</id>
+    <published>2017-08-10T07:14:55.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <summary type="html">
+    
+      路由的分类，路由的主要功能，硬路由和软路由，路由原理，nat原理，Qos原理，优化路由
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="路由器" scheme="https://www.0x8c.com/tags/%E8%B7%AF%E7%94%B1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>是什么阻挡了IPv6</title>
+    <link href="https://www.0x8c.com/%E6%98%AF%E4%BB%80%E4%B9%88%E9%98%BB%E6%8C%A1%E4%BA%86IPv6.html"/>
+    <id>https://www.0x8c.com/是什么阻挡了IPv6.html</id>
+    <published>2017-08-10T06:54:24.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>先说我的结论，IPv6姗姗来迟，因为IPv6不够优秀</p><p>各国政府力推，行政命令一波又一波，技术峰会一茬又一茬，可IPv6的覆盖率依然原地踏步。</p><p>IPv6相比IPv4有很大的性能提升么？没有</p><p>IPv6相比IPv4有很大的安全性提升么？没有</p><p>IPv6能降低运维成本么？不能</p><p>IPv6能提高运维效率么？不能</p><p>那我要这v6有何用？大侠留步，v6很多，多到完全不用担心他不够用。</p><p>慢着，v6的多有什么弊端么？当然有，他会让你在ipv4时代，基于IPv4积累的所有运维经验完全失效。ip地址再也不能称为风控的一个维度了。</p><p>我这么一说你就明白了吧，IPv6啊，可得再等几年呢～</p>]]></content>
+    
+    <summary type="html">
+    
+      是钱？是墙？是信仰？
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="ip" scheme="https://www.0x8c.com/tags/ip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sort去重统计</title>
+    <link href="https://www.0x8c.com/sort%E5%8E%BB%E9%87%8D%E7%BB%9F%E8%AE%A1.html"/>
+    <id>https://www.0x8c.com/sort去重统计.html</id>
+    <published>2017-05-14T03:21:27.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="sort"><a href="#sort" class="headerlink" title="sort"></a>sort</h1><h2 id="去除重复"><a href="#去除重复" class="headerlink" title="去除重复"></a>去除重复</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sort file |uniq</span><br></pre></td></tr></table></figure><h2 id="查找非重复"><a href="#查找非重复" class="headerlink" title="查找非重复"></a>查找非重复</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sort file | uniq -u</span><br></pre></td></tr></table></figure><h2 id="查找重复"><a href="#查找重复" class="headerlink" title="查找重复"></a>查找重复</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sort file | uniq -d</span><br></pre></td></tr></table></figure><h2 id="统计"><a href="#统计" class="headerlink" title="统计"></a>统计</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sort file | uniq -c</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      sort用法记录
+    
+    </summary>
+    
+      <category term="常识" scheme="https://www.0x8c.com/categories/%E5%B8%B8%E8%AF%86/"/>
+    
+    
+      <category term="英语" scheme="https://www.0x8c.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>变量起名</title>
+    <link href="https://www.0x8c.com/%E5%8F%98%E9%87%8F%E8%B5%B7%E5%90%8D.html"/>
+    <id>https://www.0x8c.com/变量起名.html</id>
+    <published>2017-05-14T03:21:27.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>要想代码写的好，变量名字必须屌。</p><p>综上所述，变量起名很重要</p><h2 id="我用过的单词"><a href="#我用过的单词" class="headerlink" title="我用过的单词"></a>我用过的单词</h2><p>crawler 爬虫</p>]]></content>
+    
+    <summary type="html">
+    
+      要想代码写的好，变量名字必须屌
+    
+    </summary>
+    
+      <category term="常识" scheme="https://www.0x8c.com/categories/%E5%B8%B8%E8%AF%86/"/>
+    
+    
+      <category term="英语" scheme="https://www.0x8c.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用阿里云镜像给Docker加速</title>
+    <link href="https://www.0x8c.com/%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91%E9%95%9C%E5%83%8F%E7%BB%99Docker%E5%8A%A0%E9%80%9F.html"/>
+    <id>https://www.0x8c.com/用阿里云镜像给Docker加速.html</id>
+    <published>2017-04-27T02:59:27.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://hub.docker.com" target="_blank" rel="noopener">docker hub</a>远在高墙之外，即使身处硅谷第二，镜像拉去速度也实在不敢恭维，不过国内云计算公司都提供了简单的解决方案，个人比较偏爱阿里云的服务，在阿里云官方文档中并没有提供针 dokcer for mac 设置镜像加速的方法，下面是设置方法</p><h1 id="获取加速地址"><a href="#获取加速地址" class="headerlink" title="获取加速地址"></a>获取加速地址</h1><p><a href="https://cr.console.aliyun.com/#/accelerator" target="_blank" rel="noopener">https://cr.console.aliyun.com/#/accelerator</a></p><h1 id="Mac"><a href="#Mac" class="headerlink" title="Mac"></a>Mac</h1><p>docker mac版有两个版本，mac os 10.10.3之后都可以使用Docker for Mac，之前的Docker Toolbox用起来很不习惯</p><h2 id="Docker-for-Mac"><a href="#Docker-for-Mac" class="headerlink" title="Docker for Mac"></a>Docker for Mac</h2><p>状态栏左键docker</p><p>Docker - Preferences - Daemon - Basic - Registry mirrors</p><p>粘贴你的个人专属地址</p><p>Apply &amp; Restart</p><h2 id="Docker-Tookbox"><a href="#Docker-Tookbox" class="headerlink" title="Docker Tookbox"></a>Docker Tookbox</h2><p>打开终端</p><p>创建一个装有docker服务的linux虚拟机，命名为default<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker-machine create --engine-registry-mirror=&#123;专属地址&#125; -d virtualbox default</span><br></pre></td></tr></table></figure></p><p>将虚拟机的配置拷贝一份到本地<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">docker-machine env default</span><br><span class="line">eval &quot;$(docker-machine env default)&quot;</span><br><span class="line">docker info</span><br></pre></td></tr></table></figure></p><h1 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h1><p>同mac</p><h1 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h1><p>配置文件地址/etc/docker/daemon.json</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">sudo mkdir -p /etc/docker</span><br><span class="line">sudo tee /etc/docker/daemon.json &lt;&lt;-&apos;EOF&apos;</span><br><span class="line">&#123;</span><br><span class="line">  &quot;registry-mirrors&quot;: [&quot;https://lnurb9cf.mirror.aliyuncs.com&quot;]</span><br><span class="line">&#125;</span><br><span class="line">EOF</span><br><span class="line">sudo systemctl daemon-reload</span><br><span class="line">sudo systemctl restart docker</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      深陷高墙，看我如何从容面对
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="docker" scheme="https://www.0x8c.com/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>恢复一遍iphone需要做的事</title>
+    <link href="https://www.0x8c.com/%E6%81%A2%E5%A4%8D%E4%B8%80%E9%81%8Diphone%E9%9C%80%E8%A6%81%E5%81%9A%E7%9A%84%E4%BA%8B.html"/>
+    <id>https://www.0x8c.com/恢复一遍iphone需要做的事.html</id>
+    <published>2017-03-09T09:37:34.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>理论上讲，手机用的时间越长，产生的冗余数据越多，运行速度越慢，所以每过一段时间抹去一次手机上的数据，可能就是继保持良好使用习惯之外又一个提升手机使用体验的小技巧。而且我的iPhone 6s，已是老旧设备，暂时也没有更换的打算。打算17款iPhone面世，并且港版价格平稳的时再考虑更换。</p><h3 id="备份"><a href="#备份" class="headerlink" title="备份"></a>备份</h3><p>我不建议使用iTunes的备份功能，那样恢复后的iPhone依然笨重，相比之下我更喜欢将重要数据备份，将iPhone还原，再将重要数据还原，iTunes的备份功能我每天备份只用于容灾</p><ol><li>解绑github和google的二次验证</li><li>备份微信重要的聊天记录</li></ol><p>github的二次验证非常严格，如果在开启二次验证的情况下丢失了二次验证的种子和recovery code，那你将不得不用蹩脚的英文去请求邮件帮助了</p><p>微信聊天记录可以使用mac客户端的“恢复的和备份”功能，备份指定联系人／群聊的聊天记录</p><p>关于wifi密码，备忘录和通讯录，它会保存在icloud的钥匙串中，可以在 通用 - 储存空间与iCloud用量 - 管理储存空间中查看开关状态</p><p>一般人的手机中，相册都是吃内存的大户，所以iCloud免费的5个G空间通常不能满足需求，我们可以使用一些网络云盘保存相册资源，空间绝对够用</p><h3 id="抹去"><a href="#抹去" class="headerlink" title="抹去"></a>抹去</h3><p>设置 - 通用 - 还原 - 抹去所有内容和设置</p><h3 id="还原"><a href="#还原" class="headerlink" title="还原"></a>还原</h3><p>下载软件</p><p>还原微信</p><p>设置google二次验证</p><p>设置github二次验证</p>]]></content>
+    
+    <summary type="html">
+    
+      理论上讲，手机用的时间越长，产生的冗余数据越多，运行速度越慢，所以每过一段时间抹去一次手机上的数据，可能就是继保持良好使用习惯之外又一个提升手机使用体验的小技巧。
+    
+    </summary>
+    
+      <category term="常识" scheme="https://www.0x8c.com/categories/%E5%B8%B8%E8%AF%86/"/>
+    
+    
+      <category term="iphone" scheme="https://www.0x8c.com/tags/iphone/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我为什么不买LG 21:9的显示器</title>
+    <link href="https://www.0x8c.com/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B9%B0LG%2021%EF%BC%9A9%E7%9A%84%E6%98%BE%E7%A4%BA%E5%99%A8.html"/>
+    <id>https://www.0x8c.com/我为什么不买LG 21：9的显示器.html</id>
+    <published>2017-02-23T03:49:27.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>LG是液晶面板制造商中的佼佼者，它16年出的几款宽屏曲面显示器更是俘获了不少人的芳心</p><p>最近我看笔记本看的两眼发红，于是决定要入手一台大屏幕显示器</p><p>我打开浏览器一搜立马懵逼了，都太贵了</p><p>算了不买了</p>]]></content>
+    
+    <summary type="html">
+    
+      LG是液晶面板制造商中的佼佼者，它16年出的几款宽屏曲面显示器更是俘获了不少人的芳心，最近我看笔记本看的两眼发红，于是决定要入手一台大屏幕显示器，可事情远远没有我想的那么简单
+    
+    </summary>
+    
+      <category term="常识" scheme="https://www.0x8c.com/categories/%E5%B8%B8%E8%AF%86/"/>
+    
+    
+      <category term="显示器" scheme="https://www.0x8c.com/tags/%E6%98%BE%E7%A4%BA%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>php判断是否请求类型</title>
+    <link href="https://www.0x8c.com/php%E5%88%A4%E6%96%AD%E6%98%AF%E5%90%A6ajax%E8%AF%B7%E6%B1%82.html"/>
+    <id>https://www.0x8c.com/php判断是否ajax请求.html</id>
+    <published>2017-02-23T03:47:23.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>有些业务需要判断请求类型来决定输出模版还是api数据再或者直接ban掉,我这里只能提供一个思路，要想让自己的应用变的强壮，我们还需要更多更严谨的代码</p><h2 id="PHP判断请求类型"><a href="#PHP判断请求类型" class="headerlink" title="PHP判断请求类型:"></a>PHP判断请求类型:</h2><h3 id="ajax"><a href="#ajax" class="headerlink" title="ajax"></a>ajax</h3><p>在发送ajax请求的时候，我们可以通过XMLHttpRequest这个对象，创建自定义的header头信息， 在jquery框架中，对于通过它的$.ajax, $.get, or $.post方法请求网页内容时，它会向服务器传递一个HTTP_X_REQUESTED_WITH的参数，php中就是在header一层判断是否是ajax请求，对应的根据$_SERVER[‘HTTP_X_REQUESTED_WITH’]判断。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">function isAjax()··</span><br><span class="line"> &#123;</span><br><span class="line">     return isset($_SERVER[&apos;HTTP_X_REQUESTED_WITH&apos;]) &amp;&amp; strtolower($_SERVER[&apos;HTTP_X_REQUESTED_WITH&apos;]) == &apos;xmlhttprequest&apos;;</span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure><h3 id="system"><a href="#system" class="headerlink" title="system"></a>system</h3><p>在浏览器请求页面时会带上浏览器的HTTP_USER_AGENT，而这个参数通常是固定不变的，在服务器端我们可以通过$_SERVER[‘HTTP_USER_AGENT’]获取这一参数，再通过字符串匹配来确定浏览器类型。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">function isIos()&#123;</span><br><span class="line">  if(stripos($_SERVER[&apos;HTTP_USER_AGENT&apos;], &apos;iPhone&apos;)||stripos($_SERVER[&apos;HTTP_USER_AGENT&apos;], &apos;iPad&apos;))&#123;</span><br><span class="line">    return True;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line">function isAndroid()&#123;</span><br><span class="line">  if(stripos($_SERVER[&apos;HTTP_USER_AGENT&apos;], &apos;Android&apos;))&#123;</span><br><span class="line">    return True;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>(完)</p>]]></content>
+    
+    <summary type="html">
+    
+      在做web开发时我们可能需要判断请求类型（是api请求还是html请求）来决定输出内容
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="ajax" scheme="https://www.0x8c.com/tags/ajax/"/>
+    
+      <category term="php" scheme="https://www.0x8c.com/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vim安装中文help</title>
+    <link href="https://www.0x8c.com/vim%E5%AE%89%E8%A3%85%E4%B8%AD%E6%96%87help.html"/>
+    <id>https://www.0x8c.com/vim安装中文help.html</id>
+    <published>2017-02-17T06:15:00.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>vim自带的帮助手册是英文的，对平时敲代码的同学来说使用起来难度不大，即使遇到不会的单词，也可以借助翻译软件来理解，不失为一个学习英文的好机会</p><p>但是如果是为了工作，我建议还是安装一个sourceforge上的中文help比较稳妥</p><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>Vimcdoc is an attempt to translate the wonderful Vim online documentation into Chinese, allowing more people to get to know and make use of this great tool. After installing vimcdoc, You will be able to do :help and read documentation in Chinese.</p><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>下载地址：</p><p><a href="http://vimcdoc.sourceforge.net/" target="_blank" rel="noopener">http://vimcdoc.sourceforge.net/</a></p><p>根据使用的操作系统选择对应的版本</p><h3 id="解压"><a href="#解压" class="headerlink" title="解压"></a>解压</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tar -xzvf vimcdoc-1.9.0.tar.gz</span><br></pre></td></tr></table></figure><h3 id="目录结构"><a href="#目录结构" class="headerlink" title="目录结构"></a>目录结构</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">AUTHORSLICENSEVERSIONguides.txtvimcdoc.vim</span><br><span class="line">ChangeLogREADMEdict.txthelp_cn.vim</span><br><span class="line">INSTALLTODOdocvimcdoc.sh</span><br></pre></td></tr></table></figure><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>在目录下有一个vimcdoc.sh文件，打开注释便可看到，脚本介绍，使用方法和作者信息</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">vimcdoc.sh: vimcdoc Linux install/uninstall script</span><br><span class="line"></span><br><span class="line">Usage: (run it as root)</span><br><span class="line">    &apos;./vimcdoc.sh -i&apos; to install vimcdoc and set helplang</span><br><span class="line">    &apos;./vimcdoc.sh -I&apos; to install vimcdoc only</span><br><span class="line">    &apos;./vimcdoc.sh -u&apos; to uninstall vimcdoc</span><br><span class="line">Author: wandys(wandys@users.sf.net)</span><br><span class="line">        lang2(lang2@users.sf.net)</span><br></pre></td></tr></table></figure><h3 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h3><p>开个新终端，在vim输入:help</p><p>（完）</p>]]></content>
+    
+    <summary type="html">
+    
+      vim自带的帮助手册是英文的，对平时敲代码的同学来说使用起来难度不大，即使遇到不会的单词，也可以借助翻译软件来理解，不失为一个学习英文的好机会
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="vim" scheme="https://www.0x8c.com/tags/vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql性能优化基础篇</title>
+    <link href="https://www.0x8c.com/mysql%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.html"/>
+    <id>https://www.0x8c.com/mysql性能优化.html</id>
+    <published>2017-01-25T03:48:55.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>在高i/o的系统中，数据库的性能往往是系统的瓶颈，但mysql的运行环境复杂，运行状况各异，所以，简单的依照网上的优化方法有时候并不能达到理想的效果，所以我们要具体问题具体分析</p><h3 id="列出mysql服务器运行状态"><a href="#列出mysql服务器运行状态" class="headerlink" title="列出mysql服务器运行状态"></a>列出mysql服务器运行状态</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql&gt; show global status;</span><br></pre></td></tr></table></figure><h3 id="列出mysql服务器配置信息"><a href="#列出mysql服务器配置信息" class="headerlink" title="列出mysql服务器配置信息"></a>列出mysql服务器配置信息</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql&gt; show variables;</span><br></pre></td></tr></table></figure><h3 id="查看满查询配置信息"><a href="#查看满查询配置信息" class="headerlink" title="查看满查询配置信息"></a>查看满查询配置信息</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql&gt; show variables like &apos;slow%&apos;;</span><br></pre></td></tr></table></figure><h3 id="列出慢查询语句"><a href="#列出慢查询语句" class="headerlink" title="列出慢查询语句"></a>列出慢查询语句</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mysql&gt; show global status like &apos;slow%&apos;;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      mysql的性能优化并非那么简单
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="mysql" scheme="https://www.0x8c.com/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>统计代码总行数</title>
+    <link href="https://www.0x8c.com/%E7%BB%9F%E8%AE%A1%E4%BB%A3%E7%A0%81%E6%80%BB%E8%A1%8C%E6%95%B0.html"/>
+    <id>https://www.0x8c.com/统计代码总行数.html</id>
+    <published>2017-01-24T12:11:16.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近工作交接，需要统计一下个人git仓库的代码量，于是整理了如下几条命令</p><h3 id="指定用户名"><a href="#指定用户名" class="headerlink" title="指定用户名"></a>指定用户名</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git log --author=&quot;0x8c&quot; --pretty=tformat: --numstat | awk &apos;&#123; add += $1; subs += $2; loc += $1 - $2 &#125; END &#123; printf &quot;added lines: %s, removed lines: %s, total lines: %s\n&quot;, add, subs, loc &#125;&apos;</span><br></pre></td></tr></table></figure><p>执行结果</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">added lines: 13797, removed lines: 6208, total lines: 7589</span><br></pre></td></tr></table></figure><p>本条命令，简洁高效</p><h3 id="扫描log统计增删行数版"><a href="#扫描log统计增删行数版" class="headerlink" title="扫描log统计增删行数版"></a>扫描log统计增删行数版</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git log --shortstat --pretty=&quot;%cE&quot; | sed &apos;s/\(.*\)@.*/\1/&apos; | grep -v &quot;^$&quot; | awk &apos;BEGIN &#123; line=&quot;&quot;; &#125; !/^ / &#123; if (line==&quot;&quot; || !match(line, $0)) &#123;line = $0 &quot;,&quot; line &#125;&#125; /^ / &#123; print line &quot; # &quot; $0; line=&quot;&quot;&#125;&apos; | sort | sed -E &apos;s/# //;s/ files? changed,//;s/([0-9]+) ([0-9]+ deletion)/\1 0 insertions\(+\), \2/;s/\(\+\)$/\(\+\), 0 deletions\(-\)/;s/insertions?\(\+\), //;s/ deletions?\(-\)//&apos; | awk &apos;BEGIN &#123;name=&quot;&quot;; files=0; insertions=0; deletions=0;&#125; &#123;if ($1 != name &amp;&amp; name != &quot;&quot;) &#123; print name &quot;: &quot; files &quot; files changed, &quot; insertions &quot; insertions(+), &quot; deletions &quot; deletions(-), &quot; insertions-deletions &quot; net&quot;; files=0; insertions=0; deletions=0; name=$1; &#125; name=$1; files+=$2; insertions+=$3; deletions+=$4&#125; END &#123;print name &quot;: &quot; files &quot; files changed, &quot; insertions &quot; insertions(+), &quot; deletions &quot; deletions(-), &quot; insertions-deletions &quot; net&quot;;&#125;&apos;</span><br></pre></td></tr></table></figure><p>执行结果</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">593419773,: 2 files changed, 0 insertions(+), 20 deletions(-), -20 net</span><br><span class="line">75178786,: 145 files changed, 12355 insertions(+), 1081 deletions(-), 11274 net</span><br><span class="line">amuvvv,: 90 files changed, 938 insertions(+), 86 deletions(-), 852 net</span><br><span class="line">lihang_0217,: 27 files changed, 1274 insertions(+), 472 deletions(-), 802 net</span><br><span class="line">luxiaowu,: 89 files changed, 4861 insertions(+), 1294 deletions(-), 3567 net</span><br><span class="line">netrope,: 2 files changed, 6 insertions(+), 1 deletions(-), 5 net</span><br><span class="line">nevermakeyoucrytoli,: 1420 files changed, 46061 insertions(+), 26193 deletions(-), 19868 net</span><br><span class="line">nevermakeyoucrytoli,75178786,: 11 files changed, 136 insertions(+), 11 deletions(-), 125 net</span><br><span class="line">nevermakeyoucrytotoli,: 39 files changed, 431 insertions(+), 282 deletions(-), 149 net</span><br><span class="line">zhangyuan,: 39 files changed, 1360 insertions(+), 312 deletions(-), 1048 net</span><br></pre></td></tr></table></figure><h3 id="扫描log单独统计每个人的增删行数"><a href="#扫描log单独统计每个人的增删行数" class="headerlink" title="扫描log单独统计每个人的增删行数"></a>扫描log单独统计每个人的增删行数</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git log --format=&apos;%aN&apos; | sort -u | while read name; do echo -en &quot;$name\t&quot;; git log --author=&quot;$name&quot; --pretty=tformat: --numstat | awk &apos;&#123; add += $1; subs += $2; loc += $1 - $2 &#125; END &#123; printf &quot;added lines: %s, removed lines: %s, total lines: %s\n&quot;, add, subs, loc &#125;&apos; -; done</span><br></pre></td></tr></table></figure><p>执行结果</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">0X8Cadded lines: 10939, removed lines: 104, total lines: 10835</span><br><span class="line">0x8Cadded lines: 7794, removed lines: 14255, total lines: -6461</span><br><span class="line">0x8cadded lines: 13797, removed lines: 6208, total lines: 7589</span><br><span class="line">Demiredadded lines: 13825, removed lines: 5820, total lines: 8005</span><br><span class="line">amuvvvadded lines: 938, removed lines: 86, total lines: 852</span><br><span class="line">hujuntaoadded lines: 12355, removed lines: 1081, total lines: 11274</span><br><span class="line">luxiaowuadded lines: 4861, removed lines: 1314, total lines: 3547</span><br><span class="line">nevermakeyoucrytoli@gmail.comadded lines: 46255, removed lines: 26212, total lines: 20043</span><br><span class="line">任见added lines: 6, removed lines: 1, total lines: 5</span><br><span class="line">张远added lines: 1360, removed lines: 312, total lines: 1048</span><br><span class="line">李航added lines: 1274, removed lines: 472, total lines: 802</span><br></pre></td></tr></table></figure><p>这三条命令执行在同一个库下，数据统计可能与实际情况有别，只建议用于学习和研究中</p><p>第三方工具</p><p><a href="http://oleander.io/git-fame-rb/" target="_blank" rel="noopener">git-fame-rb</a></p>]]></content>
+    
+    <summary type="html">
+    
+      最近工作交接，需要统计一下个人git仓库的代码量，于是整理了几条命令
+    
+    </summary>
+    
+      <category term="技术" scheme="https://www.0x8c.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="统计" scheme="https://www.0x8c.com/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>奇怪的版本号</title>
+    <link href="https://www.0x8c.com/%E5%A5%87%E6%80%AA%E7%9A%84%E7%89%88%E6%9C%AC%E5%8F%B7.html"/>
+    <id>https://www.0x8c.com/奇怪的版本号.html</id>
+    <published>2017-01-20T04:04:11.000Z</published>
+    <updated>2019-12-19T12:44:15.400Z</updated>
+    
+    <content type="html"><![CDATA[<p>你知道什么是j8吗？？？</p>]]></content>
+    
+    <summary type="html">
+    
+      你知道什么是j8吗？？？
+    
+    </summary>
+    
+      <category term="常识" scheme="https://www.0x8c.com/categories/%E5%B8%B8%E8%AF%86/"/>
+    
+    
+      <category term="version" scheme="https://www.0x8c.com/tags/version/"/>
+    
+  </entry>
+  
+</feed>
